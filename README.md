@@ -1,0 +1,2 @@
+# Covid-19-Vaccines-Analysis-with-R
+There was a time when Covid-19 got out of hand. Even after the lockdown, this still resulted in a rapid increase in cases as in some countries cases were brought under control but the economy was sacrificed. In such a situation, only vaccines are seen as the only tool that can help the world fight covid-19. In this repository, I will walk you through the task of Covid-19 vaccines analysis with R Language.
