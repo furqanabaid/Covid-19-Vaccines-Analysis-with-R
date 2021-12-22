@@ -5,6 +5,7 @@ There was a time when Covid-19 got out of hand. Even after the lockdown, this st
 https://www.kaggle.com/gpreda/covid-world-vaccination-progress/download
 
 # 01-First 10 rows of data
+![01-First 10 rows of data](https://user-images.githubusercontent.com/61291771/147137905-4df47c96-7495-4a23-9e2f-9ca60da5e7cb.png)
 # 02- Exploring this data 
 ![02- Exploring this data ](https://user-images.githubusercontent.com/61291771/147137690-bb4c39f1-d6b9-41e8-8c89-841f9933563f.png)
 # 03- Vaccines taken by countries(FIrst 10)
